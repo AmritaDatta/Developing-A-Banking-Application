@@ -12,6 +12,7 @@ public class AccountCreation {
     }
     
     //deposite methode
+    //deposite methode
     void deposit(float amount) {
         this.balance = this.balance + amount;
         System.out.println("Euro " + amount + " has been Credited | Balance: " + this.balance);

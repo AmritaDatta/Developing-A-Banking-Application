@@ -80,7 +80,7 @@ public class DevelopBankingApplication {
                     break;
                     
                 case 5:
-                    System.out.println("***Bye Bye***");
+                    System.out.println("***Bye Bye Bye Bye***");
                     System.out.println("-----------------------------");
                     System.exit(0); // to terminate the application execution
                     break;
